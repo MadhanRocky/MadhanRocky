@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
   <img src ="./banner.png" />
 
 </div> -->
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MadhanRocky&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
  <br/>
 
 ## 👨🏻‍💻 About Me:
